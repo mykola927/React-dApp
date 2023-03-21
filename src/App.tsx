@@ -1,3 +1,5 @@
+//file name: App.tsx
+
 import { ChakraProvider, useDisclosure } from "@chakra-ui/react";
 import theme from "./theme";
 import Layout from "./components/Layout";
